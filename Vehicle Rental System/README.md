@@ -25,17 +25,9 @@ The project showcases database connectivity, query execution, and result handlin
 ---
 
 ## 📂 Project Structure
--SQL_DB_Connection_Project/
--│-- db_connection.py # Handles database connectivity
--│-- queries.py # SQL queries execution
--│-- config.py # Database credentials/configuration
--│-- requirements.txt # Dependencies file
--│-- README.md # Project documentation
-
-## ⚡ How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/SQL_DB_Connection_Project.git
-   cd SQL_DB_Connection_Project
-Install required dependencies
-
+SQL_DB_Connection_Project/
+│-- db_connection.py     # Handles database connectivity  
+│-- queries.py           # SQL queries execution  
+│-- config.py            # Database credentials/configuration  
+│-- requirements.txt     # Dependencies file  
+│-- README.md            # Project documentation  
